@@ -4,7 +4,7 @@
 2. Launch studio again and open an empty (new) place.
 3. Use the `Execute Script` menu option and finally select `join.lua`.
 
-## Steps to Host a Global Server.
+## Steps to Host a Public Server.
 *Keep in mind of any potentially running firewalls or antivirus programs as they can block the open port.*
 
 1. Go into your router's settings and ensure that port forwarding is set to `1358` going to your machine's private ip.
