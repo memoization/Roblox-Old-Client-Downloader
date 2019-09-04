@@ -1,0 +1,1 @@
+lua "./rbxloader.lua" "." roblox.com <PASTE VERSION HASH>

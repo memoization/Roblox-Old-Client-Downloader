@@ -1,0 +1,13 @@
+##Steps to Host a Local Server.
+
+1. Launch the desired place in studio and use the `Execute Script` menu option to start up the server. Select `server.lua`.
+2. Launch studio again and open an empty (new) place.
+3. Use the `Execute Script` menu option and finally select `join.lua`.
+
+##Steps to Host a Global Server.
+*Keep in mind of any potentially running firewalls or antivirus programs as they can block the open port.*
+
+1. Go into your router's settings and ensure that port forwarding is set to `1358` going to your machine's private ip.
+2. Host the server following the same steps above.
+3. On the player's end, provide or have the user edit the `HOST_IP` variable located in the `join.lua` script to have the host's public ip.
+4. Have the player use the `Execute Script` menu option and finally select `join.lua`.
