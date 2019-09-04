@@ -11,3 +11,6 @@
 2. Host the server following the same steps above.
 3. On the player's end, provide or have the user edit the `HOST_IP` variable located in the `join.lua` script to have the host's public ip.
 4. Have the player use the `Execute Script` menu option and finally select `join.lua`.
+
+## Notes
+Keep in mind that the join script and server script only work on older versions of studio.
