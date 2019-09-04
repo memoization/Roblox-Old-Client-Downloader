@@ -13,4 +13,4 @@
 4. Have the player use the `Execute Script` menu option and finally select `join.lua`.
 
 ## Notes
-Keep in mind that the join script and server script only work on older versions of studio.
+Keep in mind that the join and server scripts only work on older versions of studio < 2013.
