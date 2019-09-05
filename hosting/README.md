@@ -9,7 +9,7 @@
 
 1. Go into your router's settings and ensure that port forwarding is set to `1358` going to your machine's private ip.
 2. Host the server following the same steps above.
-3. On the player's end, provide or have the user edit the `HOST_IP` variable located in the `join.lua` script to have the host's public ip.
+3. On the player's end, provide or have the user edit the `HOST_IP` variable located in the `join.lua` script to have the host's [public ip](https://www.whatsmyip.org/).
 4. Have the player use the `Execute Script` menu option and finally select `join.lua`.
 
 ## Notes
