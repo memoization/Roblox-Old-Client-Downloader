@@ -2,7 +2,7 @@
 
 1. Launch the desired place in studio and use the `Execute Script` menu option to start up the server. Select `server.lua`.
 2. Launch studio again and open an empty (new) place.
-3. Use the `Execute Script` menu option and finally select `join.lua`.
+3. Use the `Execute Script` menu option and finally select `join.lua` *Ensure that the `HOST_IP` variable is set to `localhost`.
 
 ## Steps to Host a Public Server.
 *Keep in mind that any running firewalls or antivirus programs may block the open port.*
