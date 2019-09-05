@@ -5,7 +5,7 @@
 3. Use the `Execute Script` menu option and finally select `join.lua`.
 
 ## Steps to Host a Public Server.
-*Keep in mind of any potentially running firewalls or antivirus programs as they can block the open port.*
+*Keep in mind that any running firewalls or antivirus programs may block the open port.*
 
 1. Go into your router's settings and ensure that port forwarding is set to `1358` going to your machine's private ip.
 2. Host the server following the same steps above.
@@ -13,4 +13,4 @@
 4. Have the player use the `Execute Script` menu option and finally select `join.lua`.
 
 ## Notes
-Keep in mind that the join and server scripts only work on older versions of studio < 2013.
+Keep in mind that the join and server scripts only work on older versions of studio < 2012. Results aren't guaranteed per client version.
